@@ -1,2 +1,2 @@
-# chem-1211k
-Course materials for Chemical Principles I (CHEM 1211K) at Georgia Tech
+# Chemical Principles I
+A first-semester introductory chemistry course. Video lectures can be found in the first half of [this playlist](https://www.youtube.com/playlist?list=PLykBd3LSjfsTaaqeHEqiq6Blz4Oar7P2P).
